@@ -12,6 +12,6 @@
     "resolveJsonModule": true,
     "types": ["node"]
   },
-  "include": ["src/**/*.ts", "config/**/*.ts"],
+  "include": ["src/**/*.ts", "config/**/*.ts", "global.d.ts"],
   "exclude": ["**/*.test.ts", "node_modules"]
 }
